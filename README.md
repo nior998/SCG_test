@@ -2,7 +2,9 @@
  
 This project is application for scg test.
 
-Run in
+Run by command
+>npm run dev
+in
 ```
 http://localhost:8080
 ```
