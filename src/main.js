@@ -11,5 +11,8 @@ new Vue({
   el: '#app',
   router,
   components: { App },
+  data: {
+    image: '@/components/image/DSCF9324.jpg'
+  },
   template: '<App/>'
 })

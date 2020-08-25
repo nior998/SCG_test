@@ -62,9 +62,14 @@ header {
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: auto;
+  z-index: 1030;
 }
-.container {padding: 10rem;}
+.container {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem  ;
+}
 @media screen and (max-width:425px) {
   .container{
   padding: 3rem;
