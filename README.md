@@ -1,6 +1,6 @@
 # SCG_test
  
-This project is application for scg test.
+This project is application for scg assignment.
 
 Run by command
 >npm run dev
