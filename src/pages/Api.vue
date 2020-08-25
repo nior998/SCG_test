@@ -11,7 +11,7 @@ export default {
   name: 'API',
   data () {
     return {
-      msg: 'bruh'
+      msg: 'N/A'
     }
   }
 }
